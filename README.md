@@ -1,38 +1,36 @@
 <h1 align="center">📂 Mi Portafolio</h1>
 
 <p align="center">
-  🚀 ¡Echa un vistazo a mis proyectos y trabajo en progreso!
-  <br><br>
   <a href="https://github.com/rubisselljs-droid" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visitar%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Link a GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-007CF0?style=for-the-badge&logo=github&logoColor=white" alt="Link a GitHub" />
   </a>
 </p>
 
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Emir+Aké+%F0%9F%91%8B;Hi%2C+I'm+Emir+Aké+%F0%9F%91%8B;Ingeniero+en+Sistemas+%F0%9F%92%BB;Desarrollador+Frontend+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=007CF0&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Emir+Aké;Hi%2C+I'm+Emir+Aké;Ingeniero+en+Sistemas;Desarrollador+Frontend" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-✨ Transformando ideas 💡 en experiencias web y soluciones digitales 💻
+Transformando ideas en experiencias web y soluciones digitales
 </h3>
 
 ---
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer gif" />
+### <img src="https://api.iconify.design/lucide:user.svg?color=%23007CF0" width="22" height="22" valign="middle" /> Sobre Mí
 
-### 🧠 Sobre Mí
-
-- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en el **ITSC**
-- ⚡ Apasionado por el desarrollo **Frontend** y construyendo bases sólidas en **Backend**
-- ⚛️ Desarrollador orientado a **React** & **Angular**
-- 🛠️ Creando interfaces dinámicas, responsivas y limpias con **Tailwind CSS** y **TypeScript**
-- 📈 En continuo aprendizaje de arquitecturas web y mejores prácticas
+<ul>
+  <li><img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23FF4D4D" width="18" height="18" valign="middle" /> Estudiante de <b>Ingeniería en Sistemas Computacionales</b> en el <b>ITSC</b></li>
+  <li><img src="https://api.iconify.design/lucide:code-2.svg?color=%23007CF0" width="18" height="18" valign="middle" /> Apasionado por el desarrollo <b>Frontend</b> y construyendo bases sólidas en <b>Backend</b></li>
+  <li><img src="https://api.iconify.design/lucide:layers.svg?color=%23FF4D4D" width="18" height="18" valign="middle" /> Desarrollador orientado a <b>React</b> y <b>Angular</b></li>
+  <li><img src="https://api.iconify.design/lucide:layout.svg?color=%23007CF0" width="18" height="18" valign="middle" /> Creando interfaces dinámicas, responsivas y limpias con <b>Tailwind CSS</b> y <b>TypeScript</b></li>
+  <li><img src="https://api.iconify.design/lucide:trending-up.svg?color=%23FF4D4D" width="18" height="18" valign="middle" /> En continuo aprendizaje de arquitecturas web y mejores prácticas</li>
+</ul>
 
 ---
 
-### 🚀 Tech Stack
+### <img src="https://api.iconify.design/lucide:cpu.svg?color=%23FF4D4D" width="22" height="22" valign="middle" /> Tech Stack
 
 <div align="left">
 
@@ -83,29 +81,27 @@
 
 ---
 
-# 📊 GitHub Stats
+# <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23007CF0" width="26" height="26" valign="middle" /> GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rubisselljs-droid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rubisselljs-droid&show_icons=true&theme=transparent&title_color=007CF0&text_color=FFFFFF&icon_color=FF4D4D&border_color=007CF0&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubisselljs-droid&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubisselljs-droid&layout=compact&theme=transparent&title_color=007CF0&text_color=FFFFFF&border_color=007CF0&hide_border=false"/>
 
 <br><br>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=rubisselljs-droid&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=rubisselljs-droid&theme=dark&background=00000000&border=007CF0&stroke=007CF0&ring=FF4D4D&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=007CF0&dates=A0A0A0"/>
 
 </div>
 
 ---
 
-# 📈 Commit Statistics
+# <img src="https://api.iconify.design/lucide:activity.svg?color=%23FF4D4D" width="26" height="26" valign="middle" /> Commit Statistics
 
 <div align="center">
 
-### 📊 Commit Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rubisselljs-droid&theme=tokyonight&hide_border=true&area=true&custom_title=Commit%20Activity%20Graph&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=8B5CF6&area_color=8B5CF6&title_color=8B5CF6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rubisselljs-droid&theme=react-dark&bg_color=0D1117&color=007CF0&line=FF4D4D&point=007CF0&area_color=007CF0&title_color=007CF0&area=true&custom_title=Commit%20Activity%20Graph"/>
 
 </div>
 
@@ -113,10 +109,10 @@
 
 <div align="center">
 
-### ⭐ ¡Gracias por visitar mi perfil!
+### Gracias por visitar mi perfil
 
 "El código limpio siempre produce mejores soluciones."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007CF0&height=120&section=footer"/>
 
 </div>
