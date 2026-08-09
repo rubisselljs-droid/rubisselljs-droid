@@ -108,7 +108,7 @@ Transformando ideas en experiencias web y soluciones digitales
 
 ### Gracias por visitar mi perfil
 
-"El código limpio siempre produce mejores soluciones."
+<i>"Transformando complejidad en simplicidad visual."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=007CF0&height=120&section=footer"/>
 
