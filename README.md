@@ -8,9 +8,6 @@
 
 ---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=007CF0&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Emir+Aké;Hi%2C+I'm+Emir+Aké;Ingeniero+en+Sistemas;Desarrollador+Frontend" alt="Typing SVG" />
-</h1>
 
 <h3 align="center">
 Transformando ideas en experiencias web y soluciones digitales
