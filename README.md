@@ -48,7 +48,7 @@
 <div align="center">
 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rubisselljs-droid&show_icons=true&theme=transparent&title_color=007CF0&text_color=FFFFFF&icon_color=FF4D4D&border_color=007CF0&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubisselljs-droid&layout=compact&theme=transparent&title_color=007CF0&text_color=FFFFFF&border_color=007CF0&hide_border=false" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubisselljs-droid&layout=compact&theme=transparent&title_color=007CF0&text_color=FFFFFF&border_color=007CF0&hide_border=false&langs_count=6" alt="Lenguajes más usados" />
 
   <br><br>
 
