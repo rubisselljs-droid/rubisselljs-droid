@@ -1,77 +1,82 @@
-<h1 align="center">📂 Mi Portafolio</h1>
+# 👨‍💻 Emir Rubissell Ake Cab
 
-<p align="center">
-  <a href="https://github.com/rubisselljs-droid" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-rubisselljs--droid-007CF0?style=for-the-badge&logo=github&logoColor=white" alt="Link a GitHub" />
-  </a>
-</p>
+\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3](https://capsule-render.vercel.app/api?type=rect\&color=0D1117\&height=3)"/> \</p>
 
-<p align="center">
-  <b>Transformando ideas en experiencias web y soluciones digitales</b>
-</p>
+\<h3 align="center">   Frontend Developer | Ingeniería en Sistemas Computacionales \</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007CF0&height=100&section=header"/>
-</p>
+\<p align="center">   Desarrollando experiencias digitales modernas, funcionales y centradas en el usuario. \</p>
 
----
-
-### <img src="https://api.iconify.design/lucide:user.svg?color=%23007CF0" width="22" height="22" valign="middle" /> Sobre Mí
-
-* <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23FF4D4D" width="18" height="18" valign="middle" /> Estudiante de **Ingeniería en Sistemas Computacionales** en el **ITSC**
-* <img src="https://api.iconify.design/lucide:code-2.svg?color=%23007CF0" width="18" height="18" valign="middle" /> Apasionado por el desarrollo **Frontend** y construyendo bases sólidas en **Backend**
-* <img src="https://api.iconify.design/lucide:layers.svg?color=%23FF4D4D" width="18" height="18" valign="middle" /> Desarrollador enfocado en **React** y **Angular**
-* <img src="https://api.iconify.design/lucide:layout.svg?color=%23007CF0" width="18" height="18" valign="middle" /> Creando interfaces dinámicas, responsivas y limpias con **Tailwind CSS** y **TypeScript**
-* <img src="https://api.iconify.design/lucide:trending-up.svg?color=%23FF4D4D" width="18" height="18" valign="middle" /> En continuo aprendizaje de arquitecturas web y mejores prácticas
+\<p align="center">
+&#x20; \<a href="[https://github.com/rubisselljs-droid](https://github.com/rubisselljs-droid)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Perfil-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Perfil-181717?style=flat-square\&logo=github\&logoColor=white)"/>
+&#x20; \</a>
+&#x20; \<img src="[https://img.shields.io/badge/Focus-Frontend-2563EB?style=flat-square](https://img.shields.io/badge/Focus-Frontend-2563EB?style=flat-square)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Status-Always%20Learning-16A34A?style=flat-square](https://img.shields.io/badge/Status-Always%20Learning-16A34A?style=flat-square)"/>
+\</p>
 
 ---
 
-### <img src="https://api.iconify.design/lucide:cpu.svg?color=%23FF4D4D" width="22" height="22" valign="middle" /> Tech Stack
+## Sobre mí
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+Soy estudiante de **Ingeniería en Sistemas Computacionales** en el ITESCAM, interesado en el desarrollo de aplicaciones web y la creación de interfaces intuitivas, modernas y responsivas.
+
+Me enfoco principalmente en el desarrollo **Frontend**, mientras continúo fortaleciendo mis conocimientos en Backend, arquitectura web y buenas prácticas de programación.
+
+- 🎓 Ingeniería en Sistemas Computacionales.
+- 💻 Enfoque principal en desarrollo Frontend.
+- ⚛️ Experiencia trabajando con tecnologías como React y Angular.
+- 🎨 Interés en UI, UX y diseño de interfaces.
+- 🚀 En constante aprendizaje y desarrollo de nuevos proyectos.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23007CF0" width="22" height="22" valign="middle" /> Estadísticas de GitHub
+## Tecnologías y herramientas
 
-<div align="center">
+**Frontend**
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rubisselljs-droid&show_icons=true&theme=transparent&title_color=007CF0&text_color=FFFFFF&icon_color=FF4D4D&border_color=007CF0&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubisselljs-droid&layout=compact&theme=transparent&title_color=007CF0&text_color=FFFFFF&border_color=007CF0&hide_border=false&langs_count=6" alt="Lenguajes más usados" />
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind&theme=dark](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind\&theme=dark)"/>
+\</p>
 
-  <br><br>
+**Backend y herramientas**
 
-  <img width="95%" src="https://streak-stats.demolab.com?user=rubisselljs-droid&theme=dark&background=00000000&border=007CF0&stroke=007CF0&ring=FF4D4D&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=007CF0&dates=A0A0A0" alt="Racha de contribuciones" />
-
-</div>
-
----
-
-### <img src="https://api.iconify.design/lucide:activity.svg?color=%23FF4D4D" width="22" height="22" valign="middle" /> Actividad de Commits
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rubisselljs-droid&theme=react-dark&bg_color=0D1117&color=007CF0&line=FF4D4D&point=007CF0&area_color=007CF0&title_color=007CF0&area=true&custom_title=Commit%20Activity%20Graph" alt="Gráfico de actividad de commits" />
-</div>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=python,git,github,vscode\&theme=dark)"/>
+\</p>
 
 ---
 
-<div align="center">
+## Estadísticas de GitHub
 
-  <br>
-  <i>"Transformando complejidad en simplicidad visual."</i>
-  <br><br>
+\<p align="center">
+&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=rubisselljs-droid&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github](https://github-readme-stats.vercel.app/api?username=rubisselljs-droid\&show_icons=true\&hide_border=true\&bg_color=0D1117\&title_color=58A6FF\&icon_color=58A6FF\&text_color=C9D1D9\&rank_icon=github)"/>
+&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rubisselljs-droid&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=rubisselljs-droid\&layout=compact\&hide_border=true\&bg_color=0D1117\&title_color=58A6FF\&text_color=C9D1D9)"/>
+\</p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007CF0&height=100&section=footer" />
+\<p align="center">
+&#x20; \<img width="90%" src="[https://streak-stats.demolab.com?user=rubisselljs-droid&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF](https://streak-stats.demolab.com?user=rubisselljs-droid\&theme=github-dark-blue\&hide_border=true\&background=0D1117\&ring=58A6FF\&fire=58A6FF\&currStreakLabel=58A6FF)"/>
+\</p>
 
-</div>
+---
+
+## Actividad de desarrollo
+
+\<p align="center">
+&#x20; \<img width="95%" src="[https://github-readme-activity-graph.vercel.app/graph?username=rubisselljs-droid&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity](https://github-readme-activity-graph.vercel.app/graph?username=rubisselljs-droid\&bg_color=0D1117\&color=58A6FF\&line=58A6FF\&point=FFFFFF\&area=true\&hide_border=true\&custom_title=Contribution%20Activity)"/>
+\</p>
+
+---
+
+## Filosofía de desarrollo
+
+\<p align="center">
+&#x20; \<i>"El buen diseño no solo se ve bien, también hace que las cosas funcionen mejor."\</i>
+\</p>
+
+\<p align="center">
+&#x20; \<sub>Construyendo, aprendiendo y mejorando un proyecto a la vez.\</sub>
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0D1117\&height=100\&section=footer)"/>
+\</p>
